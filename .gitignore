@@ -1,0 +1,8 @@
+dataset/
+runs/
+yolo_dir/
+__pycache__/
+*.pyc
+*.pt
+data.yaml
+MaskFaceDataset.zip
