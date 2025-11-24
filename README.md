@@ -3,7 +3,7 @@
 This project is an Object Detection system capable of detecting whether a person is wearing a face mask or not. It is built using the **YOLOv8** architecture.
 
 ## Deployment
-You can find and enjoy my deployed product at `[Deployment of Mask Wearing Detection with YOLOv8](https://huggingface.co/spaces/SaitoHoujou/Mask_Wearing_Detection)`
+You can find and enjoy my deployed product at [Deployment of Mask Wearing Detection with YOLOv8](https://huggingface.co/spaces/SaitoHoujou/Mask_Wearing_Detection)
 
 ## Installation
 
